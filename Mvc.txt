@@ -1,0 +1,16 @@
+***Çalışma İşlemini Sürekli Hale Getirmek
+-nuget.org
+-dotnet add package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation --version 8.0.0-preview.3.23177.8
+-Startup.cs git ConfigureServices -- services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+***SqlServer Kurulum
+
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=50003
+
+***Vscode Ve Eklentileri
+
+https://code.visualstudio.com/download
+
+1.C#
+2.C# Extensions
+3.Nuget Package Manager
